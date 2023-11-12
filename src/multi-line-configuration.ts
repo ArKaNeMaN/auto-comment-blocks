@@ -7,6 +7,7 @@ export const config = {
     "go",
     "groovy",
     "java",
+    "javascript",
     "less",
     "objective-c",
     "objective-cpp",
@@ -14,6 +15,7 @@ export const config = {
     "qml",
     "rust",
     "scss",
-    "swift"
+    "swift",
+    "typescript"
   ]
 }
