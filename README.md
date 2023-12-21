@@ -2,6 +2,10 @@
 
 Provides block comment completion for Javadoc-style multi-line comments and single-line comment blocks for most officially supported languages.
 
+## Changes at 1.1.0 version by ArKaNeMaN
+
+- Add amxxpawn language support.
+
 ## MAJOR CHANGES IN 1.0 UPDATE (Please Read)
 
 A lot has changed in this update. Please open issues for any bugs you encounter.

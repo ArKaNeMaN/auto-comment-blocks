@@ -16,7 +16,9 @@ export const config = {
     "rust",
     "scss",
     "swift",
-    "typescript"
+    "typescript",
+    "amxxpawn",
+    "jsonc",
   ],
   "#": [
     "coffeescript",
@@ -27,9 +29,10 @@ export const config = {
     "python",
     "r",
     "ruby",
-    "yaml"
+    "yaml",
   ],
   ";": [
-    "clojure"
+    "clojure",
+    "ini",
   ]
 }

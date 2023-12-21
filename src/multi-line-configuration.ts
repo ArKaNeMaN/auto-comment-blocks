@@ -16,6 +16,7 @@ export const config = {
     "rust",
     "scss",
     "swift",
-    "typescript"
+    "typescript",
+    "amxxpawn",
   ]
 }
